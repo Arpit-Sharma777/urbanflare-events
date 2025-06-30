@@ -963,3 +963,9 @@ img:not(.loaded) {
 img.loaded {
     opacity: 1;
 }
+
+.video-controls,
+.video-indicator,
+.video-loader {
+  display: none !important;
+}
